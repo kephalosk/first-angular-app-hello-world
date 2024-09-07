@@ -6,10 +6,11 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <p>
-      housing-location works!
+      housing-location works!2
     </p>
   `,
-  styles: ``
+  styles: ``,
+  styleUrls: ['housing-location.components.css']
 })
 export class HousingLocationComponent {
 
