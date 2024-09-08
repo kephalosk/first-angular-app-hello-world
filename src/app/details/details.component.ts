@@ -29,7 +29,8 @@ import {HousingLocation} from "../housing-location";
       </section>
     </article>
   `,
-  styles: ``
+  styles: ``,
+  styleUrls: ['details.component.css']
 })
 
 export class DetailsComponent {
